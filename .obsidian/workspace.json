@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "0da8f019ac4901d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controlnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b357476bfbfa1b03",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "Controlnet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "Controlnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stable Diffusion.md"
+                "file": "Controlnet.md"
               }
             }
           }
@@ -170,12 +182,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "93fbb431336c3f5a",
+  "active": "0da8f019ac4901d9",
   "lastOpenFiles": [
+    "Stable Diffusion.md",
+    "Controlnet.md",
+    "AI 学习笔记/未命名.md",
     "AI 学习笔记/controlnet.md",
+    "未命名",
     "AI 学习笔记",
     "AI 人像知识点",
-    "Stable Diffusion.md",
     "README.md",
     "bin/Pasted image 20240610175236.png",
     "bin/Pasted image 20240610174943.png",
