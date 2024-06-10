@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b357476bfbfa1b03",
+            "id": "cde55be16287fcaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,6 +28,16 @@
                 "file": "Stable Diffusion.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b357476bfbfa1b03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/注释1.md"
               }
             }
           }
@@ -160,24 +170,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b357476bfbfa1b03",
+  "active": "93fbb431336c3f5a",
   "lastOpenFiles": [
+    "AI 学习笔记/controlnet.md",
+    "Stable Diffusion.md",
+    "README.md",
+    "bin/Pasted image 20240610175236.png",
+    "bin/Pasted image 20240610174943.png",
+    "Excalidraw/潜空间工作流程.md",
+    "Excalidraw/test.md",
+    "bin/Pasted image 20240610171855.png",
+    "Excalidraw/注释1.md",
+    "bin/Pasted Image 20240610171804_936.png",
+    "bin/Pasted image 20240610171219.png",
+    "bin/Pasted image 20240610171112.png",
+    "bin/Pasted image 20240610170524.png",
+    "bin/Pasted image 20240610170439.png",
     "bin/Pasted image 20240610165751.png",
     "bin/Pasted image 20240610165503.png",
-    "bin/Pasted image 20240610165439.png",
-    "bin/Pasted image 20240610165213.png",
-    "README.md",
-    "Excalidraw/注释1.md",
-    "Pasted image 20240610164642.png",
-    "Stable Diffusion.md",
-    "bin/Pasted Image 20240610164840_203.png",
     "bin",
-    "AI 学习笔记/controlnet.md",
     "鱼的种类有哪些.md",
-    "bin/Pasted Image 20240610162040_734.png",
     "SD工作原理",
     "AI 学习笔记",
-    "Excalidraw/test.md",
     "Excalidraw"
   ]
 }
