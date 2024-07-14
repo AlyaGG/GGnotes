@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/注释1.md",
+                "file": "Stable Diffusion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/注释1.md",
+                "file": "Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/注释1.md"
+                "file": "Stable Diffusion.md"
               }
             }
           }
@@ -182,10 +182,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b357476bfbfa1b03",
+  "active": "cde55be16287fcaf",
   "lastOpenFiles": [
-    "Controlnet.md",
+    "Excalidraw/潜空间工作流程.md",
     "Stable Diffusion.md",
+    "Controlnet.md",
+    "Excalidraw/注释1.md",
     "AI 学习笔记/未命名.md",
     "AI 学习笔记/controlnet.md",
     "未命名",
@@ -194,10 +196,8 @@
     "README.md",
     "bin/Pasted image 20240610175236.png",
     "bin/Pasted image 20240610174943.png",
-    "Excalidraw/潜空间工作流程.md",
     "Excalidraw/test.md",
     "bin/Pasted image 20240610171855.png",
-    "Excalidraw/注释1.md",
     "bin/Pasted Image 20240610171804_936.png",
     "bin/Pasted image 20240610171219.png",
     "bin/Pasted image 20240610171112.png",
