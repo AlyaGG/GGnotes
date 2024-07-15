@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stable Diffusion.md"
+                "file": "README.md"
               }
             }
           }
@@ -178,13 +178,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "cde55be16287fcaf",
   "lastOpenFiles": [
-    "Excalidraw/潜空间工作流程.md",
     "Stable Diffusion.md",
+    "Excalidraw/潜空间工作流程.md",
     "Controlnet.md",
     "Excalidraw/注释1.md",
     "AI 学习笔记/未命名.md",
