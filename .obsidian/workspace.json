@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Stable Diffusion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Stable Diffusion.md"
               }
             }
           }
@@ -184,16 +184,16 @@
   },
   "active": "cde55be16287fcaf",
   "lastOpenFiles": [
+    "Controlnet.md",
+    "README.md",
     "Stable Diffusion.md",
     "Excalidraw/潜空间工作流程.md",
-    "Controlnet.md",
     "Excalidraw/注释1.md",
     "AI 学习笔记/未命名.md",
     "AI 学习笔记/controlnet.md",
     "未命名",
     "AI 学习笔记",
     "AI 人像知识点",
-    "README.md",
     "bin/Pasted image 20240610175236.png",
     "bin/Pasted image 20240610174943.png",
     "Excalidraw/test.md",
