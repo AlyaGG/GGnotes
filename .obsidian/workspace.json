@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cde55be16287fcaf",
+  "active": "c913797508fc0061",
   "lastOpenFiles": [
     "Controlnet.md",
     "README.md",
