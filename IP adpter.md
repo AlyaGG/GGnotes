@@ -34,3 +34,11 @@ dict 是双组数：包含key（name）和Value（高）
 例如：一张图参考构图，但是细节不是很好，需要怎么调整
 	调高IPA 参考数值
 	调整embedings scale 的参考类型变为 K+V
+# 多图合并算法
+### combine_embeds 合并嵌入组
+embeding合并时有很多不同的算法，如何合并和计算
+	concat 连接：有多少个图像，就解释多少embeding 
+	add 相加：将EM堆叠，但参考图很多特性又相较比较单一或者重复的时候，会把所有的token叠加在一起，重量就会很高？容易过拟合 。比如5张图全是女性，那么girl的特性的token会叠加在一起，结论：容易过拟合
+	subtract 相减：用上面图的embdeing减去下面图的embeding，剩下的内容传给采样器，
+	average  平均处理：比add效果柔和
+	norm average规格化平均：把所有emb全都做了归一化处理，把细节弱化token提高权重，把强大的特征压下去了
