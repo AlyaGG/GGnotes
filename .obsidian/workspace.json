@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "fb64c911d963ab72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stable Diffusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f0e9f03626e454f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IP adpter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cde55be16287fcaf",
             "type": "leaf",
             "state": {
@@ -53,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "IP adpter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stable Diffusion.md",
+                "file": "IP adpter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stable Diffusion.md"
+                "file": "IP adpter.md"
               }
             }
           }
@@ -181,16 +207,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c913797508fc0061",
+  "active": "0dd8eb7cefeaab47",
   "lastOpenFiles": [
-    "Controlnet.md",
-    "README.md",
     "Stable Diffusion.md",
+    "IP adpter.md",
+    "未命名 1.md",
+    "Controlnet.md",
+    "IP_adpter.md",
+    "IP_adpter",
+    "README.md",
     "Excalidraw/潜空间工作流程.md",
     "Excalidraw/注释1.md",
     "AI 学习笔记/未命名.md",
     "AI 学习笔记/controlnet.md",
-    "未命名",
     "AI 学习笔记",
     "AI 人像知识点",
     "bin/Pasted image 20240610175236.png",
