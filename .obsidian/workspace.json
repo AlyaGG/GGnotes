@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fb64c911d963ab72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stable Diffusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f0e9f03626e454f",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           },
           {
-            "id": "cde55be16287fcaf",
+            "id": "0da8f019ac4901d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +44,12 @@
             }
           },
           {
-            "id": "0da8f019ac4901d9",
+            "id": "f0f7e663c4f70508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Controlnet.md",
+                "file": "未命名/lora训练.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IP adpter.md",
+                "file": "未命名/lora训练.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IP adpter.md",
+                "file": "未命名/lora训练.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IP adpter.md"
+                "file": "未命名/lora训练.md"
               }
             }
           }
@@ -207,15 +194,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0dd8eb7cefeaab47",
+  "active": "f0f7e663c4f70508",
   "lastOpenFiles": [
+    "README.md",
+    "未命名/lora训练.md",
     "Stable Diffusion.md",
+    "未命名",
+    "Controlnet.md",
     "IP adpter.md",
     "未命名 1.md",
-    "Controlnet.md",
     "IP_adpter.md",
     "IP_adpter",
-    "README.md",
     "Excalidraw/潜空间工作流程.md",
     "Excalidraw/注释1.md",
     "AI 学习笔记/未命名.md",

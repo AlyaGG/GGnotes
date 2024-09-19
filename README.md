@@ -3,8 +3,6 @@ Changed by obsian
 
 ![[test]]
 
-但是发射点士大夫
-
 
 # 1 一级标题
 
