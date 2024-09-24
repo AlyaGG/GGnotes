@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "fd49c5043a8bc83b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "b357476bfbfa1b03",
             "type": "leaf",
             "state": {
@@ -196,9 +206,16 @@
   },
   "active": "f0f7e663c4f70508",
   "lastOpenFiles": [
-    "README.md",
-    "未命名/lora训练.md",
+    "bin/Pasted image 20240924214759.png",
+    "bin/Pasted image 20240924214312.png",
+    "bin/Pasted image 20240924214003.png",
+    "bin/Pasted image 20240924213935.png",
+    "bin/Pasted image 20240924213103.png",
+    "bin/Pasted image 20240924213045.png",
     "Stable Diffusion.md",
+    "未命名/lora训练.md",
+    "bin/Pasted image 20240924212840.png",
+    "README.md",
     "未命名",
     "Controlnet.md",
     "IP adpter.md",
@@ -216,12 +233,6 @@
     "Excalidraw/test.md",
     "bin/Pasted image 20240610171855.png",
     "bin/Pasted Image 20240610171804_936.png",
-    "bin/Pasted image 20240610171219.png",
-    "bin/Pasted image 20240610171112.png",
-    "bin/Pasted image 20240610170524.png",
-    "bin/Pasted image 20240610170439.png",
-    "bin/Pasted image 20240610165751.png",
-    "bin/Pasted image 20240610165503.png",
     "bin",
     "鱼的种类有哪些.md",
     "SD工作原理",
