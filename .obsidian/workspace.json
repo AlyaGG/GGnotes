@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "6208c7a4d30f8ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人像AI技术学习文档.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd49c5043a8bc83b",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controlnet.md",
+                "file": "人像AI技术学习文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Controlnet.md",
+                "file": "人像AI技术学习文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Controlnet.md"
+                "file": "人像AI技术学习文档.md"
               }
             }
           }
@@ -204,8 +216,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "93fbb431336c3f5a",
+  "active": "6208c7a4d30f8ab8",
   "lastOpenFiles": [
+    "Controlnet.md",
+    "人像AI技术学习文档.md",
     "IP adpter.md",
     "Stable Diffusion.md",
     "README.md",
@@ -219,7 +233,6 @@
     "bin/Pasted image 20240924213045.png",
     "bin/Pasted image 20240924212840.png",
     "未命名",
-    "Controlnet.md",
     "未命名 1.md",
     "IP_adpter",
     "Excalidraw/潜空间工作流程.md",
