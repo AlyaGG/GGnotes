@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comfy 节点参数学习/SEG 节点学习.md",
+                "file": "comfy 节点参数学习/reshoot workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEG 节点学习"
+              "title": "reshoot workflow"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comfy 节点参数学习/SEG 节点学习.md",
+                "file": "comfy 节点参数学习/reshoot workflow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SEG 节点学习 的反向链接列表"
+              "title": "reshoot workflow 的反向链接列表"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comfy 节点参数学习/SEG 节点学习.md",
+                "file": "comfy 节点参数学习/reshoot workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SEG 节点学习 的出链列表"
+              "title": "reshoot workflow 的出链列表"
             }
           },
           {
@@ -234,10 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comfy 节点参数学习/SEG 节点学习.md"
+                "file": "comfy 节点参数学习/reshoot workflow.md"
               },
               "icon": "lucide-list",
-              "title": "SEG 节点学习 的大纲"
+              "title": "reshoot workflow 的大纲"
             }
           }
         ],
@@ -260,9 +260,12 @@
   },
   "active": "3e83ea04657b8a06",
   "lastOpenFiles": [
+    "bin/Pasted image 20250113162249.png",
+    "bin/Pasted image 20250113162021.png",
+    "comfy 节点参数学习/SEG 节点学习.md",
+    "comfy 节点参数学习/reshoot workflow.md",
     "bin/Pasted image 20241211142809.png",
     "人像AI技术学习文档.md",
-    "comfy 节点参数学习/SEG 节点学习.md",
     "comfy 节点参数学习",
     "Controlnet.md",
     "IP adpter.md",
@@ -287,9 +290,7 @@
     "AI 学习笔记",
     "AI 人像知识点",
     "bin/Pasted image 20240610175236.png",
-    "bin/Pasted image 20240610174943.png",
     "Excalidraw/test.md",
-    "bin/Pasted image 20240610171855.png",
     "bin",
     "鱼的种类有哪些.md",
     "SD工作原理",
